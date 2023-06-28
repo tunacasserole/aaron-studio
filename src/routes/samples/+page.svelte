@@ -1,0 +1,17 @@
+<div
+	style="background-image: url('/landing.png');"
+	class="
+    text-pink-700
+    bg-cover
+    bg-center
+    bg-fixed
+    flex
+    flex-col
+    items-center
+    justify-center
+    h-[calc(100vh-200px)]
+    min-h-[400px]
+    "
+/>
+
+<div class="flex pt-10 items-center justify-center text-purple-700 text-3xl">coming soon...</div>
