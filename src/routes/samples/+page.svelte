@@ -1,5 +1,5 @@
 <div
-	style="background-image: url('/landing.png');"
+	style="background-image: url('/landing-2.jpg');"
 	class="
     text-pink-700
     bg-cover

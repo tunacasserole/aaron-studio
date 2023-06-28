@@ -4,7 +4,7 @@
 	</div>
 	<div
 		class="w-1/2 bg-cover bg-center flex items-center justify-center"
-		style="background-image: url('/landing.png')"
+		style="background-image: url('/landing-2.jpg')"
 	/>
 	<slot />
 </div>
