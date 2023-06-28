@@ -13,7 +13,7 @@
 	</main>
 
 	<footer>
-		<p>developed by www.solidstack.io</p>
+		<p>developed by Aaron Henderson</p>
 	</footer>
 </div>
 
