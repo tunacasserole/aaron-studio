@@ -4,17 +4,18 @@
 	import '../app.css';
 
 	/** @type {import('./$types').LayoutServerData} */
-	export let data;
 </script>
 
-<div class="app bg-slate-200 text-pink-500">
-	<main>
-		<slot />
-	</main>
-
-	<footer>
-		<p>developed by Aaron Henderson</p>
-	</footer>
+<div class="flex min-h-screen">
+	<div class="w-1/2 bg-slate-200 flex items-center justify-center">
+		<h1 class="text-4xl font-bold">Meet Aaron</h1>
+	</div>
+	<div
+		class="w-1/2 bg-cover bg-center flex items-center justify-center"
+		style="background-image: url('/path/to/your/image.jpg')"
+	>
+		<h1 class="text-4xl font-bold">Samples</h1>
+	</div>
 </div>
 
 <style>
