@@ -7,7 +7,7 @@
 	export let data;
 </script>
 
-<div class="app">
+<div class="app bg-slate-200 text-pink-500">
 	<main>
 		<slot />
 	</main>
