@@ -8,13 +8,13 @@
 
 <div class="flex min-h-screen">
 	<div class="w-1/2 bg-slate-200 flex items-center justify-center">
-		<h1 class="text-4xl font-bold">Meet Aaron</h1>
+		<h1 class="text-4xl font-bold text-pink-500">Meet Aaron</h1>
 	</div>
 	<div
 		class="w-1/2 bg-cover bg-center flex items-center justify-center"
 		style="background-image: url('/path/to/your/image.jpg')"
 	>
-		<h1 class="text-4xl font-bold">Samples</h1>
+		<h1 class="text-4xl font-bold text-blue-700">Samples</h1>
 	</div>
 </div>
 
