@@ -14,4 +14,6 @@
     "
 />
 
-<div class="flex pt-10 items-center justify-center text-purple-700 text-3xl">coming soon...</div>
+<a href="/" class="flex pt-10 items-center justify-center text-purple-700 text-3xl"
+	>coming soon...</a
+>
